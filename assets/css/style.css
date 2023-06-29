@@ -1107,3 +1107,7 @@ section {
 .fit-img {
   height: 17.5rem;
 }
+.portfolio-item .portfolio-wrap img {
+  max-width: 100%;
+  height: atuo;
+}
